@@ -1,0 +1,15 @@
+项目结构
+text
+VirtualCamera/
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/example/virtualcamera/
+│   │   │   ├── MainActivity.java
+│   │   │   ├── VirtualCameraService.java
+│   │   │   ├── CameraHook.java
+│   │   │   ├── ImageProcessor.java
+│   │   │   └── RootUtils.java
+│   │   ├── res/
+│   │   └── AndroidManifest.xml
+├── build.gradle
+└── settings.gradle
